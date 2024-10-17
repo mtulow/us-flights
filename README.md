@@ -1,5 +1,7 @@
-# us-flights
-Data visualization project for Udacity Business Analytics Nanodegree featuring the kaggle Flight Delays and Cancellations dataset.
+# US Flight Delays and Cancellations
+---
+
+Data visualization project for Udacity's [Business Analytics Nanodegree](https://www.udacity.com/enrollment/nd098-oneten-t2) featuring the kaggle [2015 Flight Delays and Cancellations](https://www.kaggle.com/usdot/flight-delays/data) dataset.
 
 Optional Questions:
 1. __Which airlines or airports have the worst delays?__ Determine which destinations and arrival destinations have the most delays. Doing this using maps is actually pretty difficult, but you may choose an alternative visual to provide this information. Think about what kind of aggregates might work best to determine which airlines and airports are the best and worst in terms of delays.
